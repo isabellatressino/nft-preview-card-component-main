@@ -123,3 +123,19 @@ section#avatar a{
 section#avatar a:hover{
     color: var(--cyan);
 }
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+}
+.attribution { 
+    font-size: 11px;
+    text-align: center; 
+    color: rgba(255, 255, 255, 0.76);
+}
+.attribution a { 
+    color: hsl(228, 56%, 56%);
+ }
