@@ -38,6 +38,7 @@ section#imagem{
     height: 250px;
     border-radius: 10px;
     margin: 25px;
+    opacity: 1;
 }
 
 section#imagem:hover{
